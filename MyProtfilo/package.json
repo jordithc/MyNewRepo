@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./server.js"
   },
 
   "engines": {
-    "node":"18.9.1",
-    "npm":"8.19.1"
+    "node":"^10.0.0",
+    "npm":"^6.0.0"
   },
 
   "dependencies": {
